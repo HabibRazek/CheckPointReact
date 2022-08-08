@@ -1,0 +1,12 @@
+.App{
+  width: 35%;
+  margin: 150px auto;
+}
+.AppTitle{
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: -80px;
+  color: royalblue;
+}
+
